@@ -196,10 +196,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-If you want, I can also create:
-
-- **A GitHub-ready folder structure**  
-- **Badges for your README**  
-- **A banner image for the repo**  
-
-Just tell me!  
+Let me know if you are interested to contribute and expand this tutorial. It will be of help to many other learners.
