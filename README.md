@@ -1,5 +1,7 @@
 # awesome_ml_optimised
 
+Many people repeatedly asked me for a clear, structured roadmap on how to learn Machine Learning after mastering the basics.
+
 # 📘 Machine Learning Roadmap (Intermediate → Advanced)
 
 This repository provides a **complete 16-week roadmap** for learners who already know the basics of Machine Learning and want to advance into **Deep Learning, NLP, MLOps, and real-world ML engineering**.
