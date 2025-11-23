@@ -8,7 +8,6 @@ This repository provides a **complete 16-week roadmap** for learners who already
 
 The roadmap is structured to help you build **strong theory**, **practical skills**, and **production-ready systems**, while also becoming comfortable reading **modern ML research papers**.
 
-
 ---
 
 ## 📌 What You Will Learn
